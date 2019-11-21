@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"第一阶段","order":1,"parentId":0,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":1,"scrollX":1360.8,"scrollY":1093.2},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":1,"scrollX":1360.8,"scrollY":1093.2},
+{"id":4,"expanded":false,"name":"3579","order":4,"parentId":1,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":5,"expanded":false,"name":"第二阶段前序","order":5,"parentId":1,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":6,"expanded":true,"name":"第二阶段","order":6,"parentId":0,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":6,"scrollX":971.9999999999999,"scrollY":781.7142857142857},
+{"id":8,"expanded":true,"name":"第二阶段终","order":8,"parentId":6,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":9,"expanded":true,"name":"MAP009","order":10,"parentId":8,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":10,"expanded":false,"name":"MAP010","order":9,"parentId":8,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":11,"expanded":false,"name":"MAP011","order":12,"parentId":8,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":12,"expanded":false,"name":"MAP012","order":11,"parentId":9,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":13,"expanded":false,"name":"学校 走廊","order":14,"parentId":14,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":14,"expanded":true,"name":"第三阶段","order":13,"parentId":0,"scrollX":958.2857142857142,"scrollY":1151.142857142857},
+{"id":15,"expanded":false,"name":"学校 教室","order":15,"parentId":14,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":16,"expanded":false,"name":"实验室","order":16,"parentId":14,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":17,"expanded":false,"name":"电脑室","order":17,"parentId":14,"scrollX":971.9999999999999,"scrollY":780.8571428571428},
+{"id":18,"expanded":false,"name":"学校后山","order":18,"parentId":14,"scrollX":958.2857142857142,"scrollY":1344.8571428571427}
+]
